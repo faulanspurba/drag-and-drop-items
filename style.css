@@ -1,0 +1,28 @@
+section {
+  background-color: #ccc;
+  width: 90%;
+  height: 600px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: auto;
+}
+
+.wrapper {
+  width: 300px;
+  padding: 20px;
+  box-sizing: border-box;
+  height: 90%;
+  background-color: #f5f5f5;
+  margin: 10px;
+}
+
+p {
+  background-color: royalblue;
+  padding: 5px;
+  font-size: 2rem;
+  font-family: "Poppins";
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+}
